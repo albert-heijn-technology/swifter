@@ -1,3 +1,5 @@
+> This project is no longer maintained, feel free to fork the project.
+
 ![Logo](https://dl.dropboxusercontent.com/u/858551/httpswift_logo.png)
 
 ### What is Swifter?
